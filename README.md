@@ -10,7 +10,7 @@ print(nome);
 nome = null;
 
 late String sobrenome;
-sobrenome = 'Furigo';
+sobrenome = 'Fulano';
 print(sobrenome);
 //sobrenome = null;
 }
@@ -26,7 +26,7 @@ Por fim, a variável nome é definida como null.
 
 /* 2 - Variável sobrenome:
 É declarada como late String, o que indica que será inicializada posteriormente.
-Atribui-se o valor 'Furigo' à variável sobrenome.
+Atribui-se o valor 'Fulano' à variável sobrenome.
 Imprime-se o valor de sobrenome.
 Finalmente, a variável sobrenome é definida como null.
 
@@ -34,7 +34,7 @@ Finalmente, a variável sobrenome é definida como null.
 
 /* Resumo: 
 Em resumo, o código demonstra o uso de variáveis nulas (String?) e variáveis atrasadas (late String). 
-O resultado da execução será a impressão dos valores 'Gabriel' e 'Furigo'.
+O resultado da execução será a impressão dos valores 'Gabriel' e 'Fulano'.
 
 */
 ****
